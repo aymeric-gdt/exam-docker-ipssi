@@ -21,8 +21,8 @@ Ce projet Docker configure un serveur web sous Debian Buster capable d'exécuter
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/username/projet-docker-webserver.git
-cd projet-docker-webserver
+git clone https://github.com/aymeric-gdt/exam-docker-ipssi.git
+cd exam-docker-ipssi
 ```
 ### 2. Construire l'image Docker
 Depuis le répertoire du projet, exécutez la commande suivante pour construire l'image Docker :
